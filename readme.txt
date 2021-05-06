@@ -1,7 +1,3 @@
-Buen día Mauro, ¿cómo estás? Se procederá a aclarar algunas cuestiones sobre el trabajo, ya que capaz podrían generar duda - y además es obligatorio hacerlo.
-
-● Se exhorta leerlo en Sublime, pantalla completa.
-● Se aclara que el archivo "ptda.h" funciona raro, cada vez que se abre se ve mal indentado: se lamenta esto, no se ha logrado solucionar.
 
 ─────────────────────────────────────────────────────────────────────────Convenciones─────────────────────────────────────────────────────────────────────────
 
